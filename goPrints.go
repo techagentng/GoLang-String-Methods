@@ -1,3 +1,4 @@
+// Major GoLang format specifiers
 package main
 
 import(
