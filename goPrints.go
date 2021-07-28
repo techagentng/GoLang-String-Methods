@@ -7,7 +7,8 @@ import(
 //%v for variable
 //%q for quotes
 //%T prints the type of varianble
-//%f prints float type variables
+//%f prints float type variables e.g 0.56775
+//%0.2 contrains the prints to 2 decimal value places
 
 func main(){
 	var name string = "Nnamdi"
